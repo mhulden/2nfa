@@ -48,4 +48,4 @@ For example:
 
 Describes the two-way automaton:
 
-![Example 1](https://github.com/mhulden/2nfa/images/example1.png "")
+![Example 1](https://github.com/mhulden/2nfa/example1.png "")
