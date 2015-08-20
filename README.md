@@ -2,7 +2,7 @@
 
 This is a rudimentary reference implementation of the three algorithms for converting two-way automata into one-way automata using regular expressions, as documented in the paper:
 
-Hulden, M. (2015). From Two-Way to One-Way Finite Automata - Three Regular Expression-Based Methods. In Drewes, F., editor, *Implementation and Application of Automata, 20th International Conference, CIAA 2015, Umeå, Sweden*. Volume 9223 of Lecture Notes in Computer Science, pages 176-187. Springer-Verlag, 2015.[_[link]_](http://link.springer.com/chapter/10.1007%2F978-3-319-22360-5_15)
+Hulden, M. (2015). From Two-Way to One-Way Finite Automata - Three Regular Expression-Based Methods. In Drewes, F., editor, *Implementation and Application of Automata, 20th International Conference, CIAA 2015, Umeå, Sweden*. Volume 9223 of Lecture Notes in Computer Science, pages 176-187. Springer-Verlag.[_[link]_](http://link.springer.com/chapter/10.1007%2F978-3-319-22360-5_15)
 
 ## Usage
 
